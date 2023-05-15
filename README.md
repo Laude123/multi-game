@@ -1,4 +1,4 @@
 # multi-game
 
 Single platform having multiple games
-[Visit to play](https://laude123.github.io/multi-game/)
+[Visit to play](https://tonyyadav004.github.io/multi-game/)
